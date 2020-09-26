@@ -15,6 +15,7 @@ A wordpress development environment.
     - `Command Prompt` or `Windows Terminal` on **Windows**
     - `Terminal` on **macOS** or **GNU/Linux**
 - Run `docker-compose up`
+    - IF you want to run the instance in the background, use `docker-compose up -d` instead.
 
 # Shutting down wordpress instance
 - Open

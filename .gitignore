@@ -1,6 +1,1 @@
-/wordpress
 /data_db
-
-# needed to cover the config modificatons
-# to allow local file access
-!/wordpress/wp-config.php
